@@ -23,7 +23,7 @@ try:
             input('Press any key to exit')
 
     root = Tk()
-    root.geometry('1200x750')
+    #root.geometry('1200x750')
     root.title("Pychat")
     root.config(bg='turquoise1')
 

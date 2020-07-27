@@ -14,7 +14,7 @@ def main():
     global ipvv, portvv, ipv, portv
     #Create window
     root = Tk()
-    root.geometry('1200x700')
+    #root.geometry('1200x700')
     root.title("Pychat")
     root.config(bg='turquoise1')
 
